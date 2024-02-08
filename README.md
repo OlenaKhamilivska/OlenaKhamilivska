@@ -16,7 +16,7 @@ I'm Olena. I have 2 years experience in Java Android development with successful
 
 <br>
 <br>
-[![Olena's GitHub stats](https://github-readme-stats.vercel.app/api?username=olenakhamilivska)](https://github.com/olenakhamilivska/github-readme-stats)
+[![Olena's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlenaKhamilivska)](https://github.com/OlenaKhamilivska/github-readme-stats)
 
 
 
