@@ -14,8 +14,10 @@ I'm Olena. I have 2 years experience in Java Android development with successful
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-black?logo=jetpackcompose&color=white)
 ![Static Badge](https://img.shields.io/badge/Pagination-black?color=red)
 
+<br>
+<br>
+![Olena's GitHub stats](https://raw.githubusercontent.com/OlenaKhamilivska/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-###Tutorials
 
 
 
