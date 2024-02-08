@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Olena. I have 2 years experience in Java Android development with successfully completed projects (with use of Java, Kotlin,Compose, MVVM Architecture, HTTP, REST, JSON, Git, third-party libraries and APIs, Design Patterns, etc. ). And I have a strong desire to build my career as Android developer in professional and experienced team provided by your company.
+I'm Olena. I'm a FrontEnd Developer with 2 years experience in Java Android development and with successfully completed projects (with use of Java, Kotlin,Compose, MVVM Architecture, HTTP, REST, JSON, Git, third-party libraries and APIs, Design Patterns, etc. ). My favorite programming languages are Java and Kotlin. 
+
+Hobbies and interests: I love travelling, love books (psychology), love and from sports, I prefer stretch and plank. 
+
+Why programming? Simple answer: Once I see code and fell in love.
 
 📫Reach me out:
 
