@@ -16,7 +16,7 @@ I'm Olena. I have 2 years experience in Java Android development with successful
 
 <br>
 <br>
-![Olena's GitHub stats](https://raw.githubusercontent.com/OlenaKhamilivska/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?OlenaKhamilivska= &theme=radical)
 
 
 
